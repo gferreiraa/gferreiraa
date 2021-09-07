@@ -1,6 +1,6 @@
 # <p align="center"><samp> Sup Guys! 👾 I'm <a href="https://gferreiraa.github.io/" target="_blank">Getúlio Rafael</a> </samp></p>
 
-<img src="https://i.imgur.com/jAHtz5b.png" title="source: imgur.com" align="right" alt="GIF" height="300px" />
+<img src="https://i.imgur.com/jAHtz5b.png" title="source: imgur.com" align="right" alt="GIF" height="200px" />
 
 <p align="left">
 <br />
@@ -8,11 +8,11 @@
 
 <samp>
 - 🔭 I’m currently working on <a href="https://www.datum.inf.br/" target="_blank">Datum I.T</a><br />
-- 👨‍💻 Currently working on web development technologies JavaScript, React, Vue, Node, React Query...<br />
+- 👨‍💻 Currently working with JS, React, Vue, Node, React Query...<br />
 - 📚 Learning everything about Frontend web and mobile 😉<br />
 - 💪🏼 Future Goals: Learn more technologies -  trying to be 1% better every DAY!.<br />
 - ⚡ Fun fact: I love to read classic comic books.<br />
-- 🌱 I’m currently learning Flutter!<br />
+- 🌱 I’m currently learning Fluter!<br />
 
 </samp>
 </p>
