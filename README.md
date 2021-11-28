@@ -7,7 +7,6 @@
 <br />
 
 <samp>
-- 🔭 I’m currently working on <a href="https://www.datum.inf.br/" target="_blank">Datum I.T</a><br />
 - 👨‍💻 Currently working with JS, React, Vue, Node, React Query...<br />
 - 📚 Learning everything about Frontend web and mobile 😉<br />
 - 💪🏼 Future Goals: Learn more technologies -  trying to be 1% better every DAY!.<br />
