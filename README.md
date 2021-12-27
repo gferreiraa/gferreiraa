@@ -11,7 +11,7 @@
 - 📚 Learning everything about Frontend web and mobile 😉<br />
 - 💪🏼 Future Goals: Learn more technologies -  trying to be 1% better every DAY!.<br />
 - ⚡ Fun fact: I love to read classic comic books.<br />
-- 🌱 I’m currently learning Fluter!<br />
+- 🌱 I’m currently learning Flutter!<br />
 
 </samp>
 </p>
