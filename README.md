@@ -1,4 +1,4 @@
-# <p align="center"><samp> Sup Guys! 👾 I'm <a href="https://gferreiraa.github.io/" target="_blank">Getúlio Rafael</a> </samp></p>
+# <p align="center"><samp>Hey there, I’m <a href="https://gferreiraa.github.io/" target="_blank">Getúlio Rafael</a> 👋</samp></p>
 
 <img src="https://i.imgur.com/jAHtz5b.png" title="source: imgur.com" align="right" alt="GIF" height="200px" />
 
@@ -7,18 +7,61 @@
 <br />
 
 <samp>
-- 👨‍💻 Currently working with JS, React, Vue, Node, React Query...<br />
-- 📚 Learning everything about Frontend web and mobile 😉<br />
-- 💪🏼 Future Goals: Learn more technologies -  trying to be 1% better every DAY!.<br />
-- ⚡ Fun fact: I love to read classic comic books.<br />
-- 🌱 I’m currently learning Flutter!<br />
-
+As a Senior Frontend Engineer with over 15 years of experience, I specialize in crafting end-to-end digital experiences for e-commerce, web, and mobile applications, along with complex integrations.  
 </samp>
-</p>
-<br />
-<br />
 
 ---
+
+## 🌐 About Me
+<samp>
+ 👨‍💻 E-commerce & Shopify Expert: Built headless solutions using Shopify Hydrogen, Storefront API, and GraphQL, delivering custom checkout flows and performance optimizations.<br /><br /> 
+ 🚀 Strong Frontend Background: Deep experience with JavaScript (ES6+), TypeScript, React, Next.js, Vue.js, focusing on scalable component architecture, testing (Jest, React Testing Library), and best practices.<br /><br />  
+ ⚙️ Integrations & Tooling:  
+  - Node.js, Express, and Fastify for REST/GraphQL APIs.  
+  - Prisma & PostgreSQL for data modeling.  
+  - Kafka and Event-Driven Architecture for distributed systems.  
+  - Tailwind CSS, Styled Components, and CSS Modules for responsive UIs.  
+ 📊 Performance & Quality: Conduct performance audits (Lighthouse, Web Vitals), bundle optimizations (Webpack, Vite), and usability testing.<br /><br />   
+ 🎯 Technical Leadership: Mentored teams, performed code reviews, and defined guidelines for Agile workflows.<br /><br />   
+ 🚧 Key Projects:  
+  - High-traffic headless marketplace on Shopify, Hydrogen, and serverless functions.  
+  - Hybrid mobile apps with React Native and secure Firebase backends.  
+  - Game prototypes in Unity, exploring pixel-art mechanics and level design.  
+</samp>
+
+---
+
+## 🛠 Technologies & Tools
+<samp>
+
+| Languages & Frameworks       | Tools & Integrations              |
+|------------------------------|-----------------------------------|
+| • JavaScript / TypeScript    | • Shopify Hydrogen / Storefront API |
+| • React / Next.js / Vue.js   | • GraphQL / Apollo Client         |
+| • Node.js / Express / Fastify| • Prisma / PostgreSQL             |
+| • React Native / Swift (iOS) | • Kafka / Event-Driven Architecture |
+| • Unity (C#)                 | • Jira / Confluence / GitHub Actions |
+| • Tailwind CSS / Styled Components | • Vercel / Netlify / AWS Lambda |
+
+</samp>
+
+---
+
+## 🎯 Goals & Hobbies
+<samp>
+✔️ Continuously improve—striving to be 1% better every day.<br /><br />  
+🎮 Hobbies: Game development with **Unity** (2D/3D & pixel art), native iOS apps with Swift, and cross-platform apps with React Native.<br /><br />  
+📚 Passionate reader of classic comic books and advocate for UI/UX best practices.<br /><br />  
+</samp>
+
+---
+
+## 📫 Connect With Me
+<samp>
+🌐 Personal Site: [gferreiraa.github.io](https://gferreiraa.github.io/)<br /><br />  
+💼 LinkedIn: [linkedin.com/in/getulio-rafael](https://www.linkedin.com/in/getulio-rafael/)<br /><br /> 
+📧 Email: gferreiraa@gmail.com  
+</samp>
 
 <br />
 
@@ -46,14 +89,6 @@
 <br />
 <br />
 
-### <samp> Now Playing 🎧 </samp>
-
-<br />
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=249uhwme433fvo2zxrr7tlhwp&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-<br/>
-<br/>
-
 ---
 
 <br/>
@@ -80,19 +115,6 @@
 
 <br/>
 
-<details>
-  <summary>⚡ <samp>Recent GitHub Activity</samp></summary>
-  <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gferreiraa Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gferreiraa&custom_title=gferreiraa's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <br/>
-</details>
-
-<br/>
-<br/>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gferreiraa.gferreiraaleft_color=green&right_color=indigo)
-
-<br/>
 
 ---
 
